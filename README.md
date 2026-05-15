@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full stack Developer. Building web apps using React, Next.js, Node.js, Django, MogoDB and PostgreSQL…<br>I am also working on projects using Langchain, LangGraph to built worflows to solve the problems and build AI integrated Applications.<br>I love to explore technologies.
+I am a Full stack Developer. Building web apps using React.js, Next.js, Express.js, Node.js, Django, MogoDB and PostgreSQL…<br>I am also working on projects using Langchain, LangGraph to built worflows to solve the problems and build AI integrated Applications.<br>I love to explore technologies.
 
 
 ## 🌐 Socials:
